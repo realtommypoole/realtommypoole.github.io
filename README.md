@@ -10,8 +10,6 @@ Hi, I’m Tommy Poole. I’m a learner and builder, passionate about helping peo
 - **On Repeat** pairs my notes on films, music, and podcasts with looping dot animations.
 - **The Bookshelf** lets you pick a spine to see the cover and read why the book stuck with me.
 
-(https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/realtommypoole/) · [GitHub](https://github.com/realtommypoole)
